@@ -37,7 +37,7 @@ Programming languages:
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=rodbnegri&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=rodbnegri&style=for-the-badge&color=green" alt=""/>
 </div>
 
 <!--

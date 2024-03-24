@@ -4,6 +4,8 @@ I have a Ph.D. in Space Tech & Engineering from the National Institute for Space
 
 My expertise is in guidance, navigation, and control (a.k.a. flight dynamics and control).
 
+Interested in embedded systems.
+
 Programming languages:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="60" height="60"/>

@@ -2,7 +2,7 @@
 
 🛰️ I have a Ph.D. in Space Tech & Engineering from the National Institute for Space Research (INPE), Brazil. 
 
-📡 My expertise is in guidance, navigation, and control (a.k.a. flight dynamics and control).
+📡 My expertise is in guidance, navigation, and control.
 
 💻 Interested in embedded systems.
 

@@ -1,8 +1,8 @@
 ### About me:
 
-🛰️ I have a Ph.D. in Space Tech & Engineering from the National Institute for Space Research (INPE), Brazil. 
+🛰️ Ph.D. in Space Engineering from the National Institute for Space Research (INPE), Brazil. 
 
-📡 My expertise is in guidance, navigation, and control.
+📡 Expertise in GNC (guidance, navigation & control), and astrodynamics.
 
 💻 Interested in embedded systems.
 

@@ -7,14 +7,22 @@
 💻 Interested in embedded systems.
 
 Programming languages:
+
+- Proficient:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp"  alt="Cpp" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" title="Fortran"  alt="Fortran" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original-wordmark.svg" title="Julia"  alt="Julia" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab"  alt="Matlab" width="60" height="60"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua"  alt="Lua" width="60" height="60"/>
+</div>
+- Familiar:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Cpp"  alt="Cpp" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" title="Fortran"  alt="Fortran" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="60" height="60"/>
+</div>
+- Basic Knowledge:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua"  alt="Lua" width="60" height="60"/>
   <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" title="Rust"  alt="Rust" width="60" height="60"/>
 </div>
 

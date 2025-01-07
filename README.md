@@ -21,13 +21,6 @@ Programming languages:
   <img src="https://github.com/devicons/devicon/blob/master/icons/fortran/fortran-original.svg" title="Fortran"  alt="Fortran" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="60" height="60"/>
 </div>
-
-- Beginner:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua"  alt="Lua" width="60" height="60"/>
-  <img src="https://www.rust-lang.org/logos/rust-logo-128x128.png" title="Rust"  alt="Rust" width="60" height="60"/>
-</div>
-
 ---
 
   

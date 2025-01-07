@@ -23,10 +23,6 @@ Programming languages:
 </div>
 ---
 
-  
-<p align="center">
-  <img width="1000" height="220" src="https://streak-stats.demolab.com?user=rodbnegri&theme=dark&hide_border=true&border_radius=20&date_format=j%20M%5B%20Y%5D&card_width=800">
-</p>
 
 
 ---
